@@ -1,13 +1,11 @@
 
 TITLE: 
-Charity - 100% Fully Responsive Free HTML5 Bootstrap Template
+One Nation Website
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by Aman Kant
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+
 
 
 CREDITS:
@@ -51,6 +49,5 @@ https://github.com/briancherne/jquery-hoverIntent
 Stellar Parallax
 http://markdalgleish.com/projects/stellar.js/
 
-Demo Images
-http://unsplash.com/
+
 
